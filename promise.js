@@ -65,7 +65,7 @@ async function resolver() {
 
 //try catch
 
-const nome = "Lorena"
+const nome = "Lorena" 
 
 try {
   nome = "Celina"
